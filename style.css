@@ -78,7 +78,7 @@ nav ul li a{
      font-size: 30px;
 }
 .header-container:hover{
-    background:linear-gradient(45deg, tomato, #2D25A0);
+    background:linear-gradient(45deg, #675ee4, #2D25A0);
 }
 .header-container:hover .banner-image{
     transform:rotate(360deg);
